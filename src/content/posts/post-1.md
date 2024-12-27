@@ -2,7 +2,7 @@
 title: Is Fat Really the Villain? Debunking Myths About Fats and Healthy Eating.
 description: "meta description"
 date: 2024-12-12T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/oil_and_fats.webp"
 categories: ["health"]
 authors: ["Kalpna Bora"]
 tags: ["Health", "Nutrition","healthy eating","fat","healthy lifestyle"]
