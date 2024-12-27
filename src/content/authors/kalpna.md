@@ -4,7 +4,7 @@ image: /images/authors/author.jpeg
 description: Hi, this is Kalpna
 social:
   facebook: https://www.facebook.com/
-  Pinterest: [https://www.twitter.com/](https://www.pinterest.com/Nourishroot/)
+  Pinterest: https://www.pinterest.com/Nourishroot
  
 ---
 
