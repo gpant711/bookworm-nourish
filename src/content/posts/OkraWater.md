@@ -1,7 +1,7 @@
 ---
 title: "Okra Water Benefits : A Complete Guide to This Natural Health Elixir"
 description: "meta description"
-date: 2024-26-12T05:00:00Z
+date: 2024-12-26T05:00:00Z
 image: "/images/posts/okra.webp"
 categories: ["health"]
 authors: ["Kalpna Bora"]
