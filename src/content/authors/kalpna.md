@@ -4,8 +4,8 @@ image: /images/authors/author.jpeg
 description: Hi, this is Kalpna
 social:
   facebook: https://www.facebook.com/
-  twitter: https://www.twitter.com/
-  instagram: https://www.instagram.com/
+  Pinterest: [https://www.twitter.com/](https://www.pinterest.com/Nourishroot/)
+ 
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Kalpna is a qualified nutritionist, health enthusiast, and budding writer with a passion for leading a healthy, productive life and sharing her experiences and knowledge with the world. 
