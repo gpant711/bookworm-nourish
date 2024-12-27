@@ -24,7 +24,7 @@ Okra water contains both soluble and insoluble fiber:
 
 Soluble fiber forms a gel-like substance that aids digestion and supports beneficial gut bacteria
 Insoluble fiber adds bulk to stool, promoting regular bowel movements
-A study in the NIH National Library of Medicine highlighted okra’s mucilage as a natural prebiotic that supports digestive health.
+A study in [NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC7865958/) National Library of Medicine highlighted okra’s mucilage as a natural prebiotic that supports digestive health.
 
 3. Skin Health Enhancement
 The high vitamin C and antioxidant content in okra water contributes to skin health. Research in the Journal of Food Science and Technology demonstrates okra’s antioxidant properties, which may help:
@@ -42,7 +42,7 @@ Essential minerals like potassium and magnesium
 Natural electrolytes for hydration
 Low-calorie hydration alternative
 6. Liver Function Support
-An article published in 2023 suggests that okra’s flavonoids and vitamin C content may support liver health by:
+An [Article](https://www.health.com/okra-water-benefits-8629906) published in 2023 suggests that okra’s flavonoids and vitamin C content may support liver health by:
 
 Reducing oxidative stress
 Supporting natural detoxification processes
