@@ -1,10 +1,20 @@
 ---
-title: About me
-meta_title: About me
+title: "I’m Kalpna, A mom with a mission to lead a healthy and productive life"
+meta_title: "I’m Kalpna, A mom with a mission to lead a healthy and productive life"
 image: /images/author.png
 draft: false
+what_i_do:
+  title: "What I Do"
+  items:
+  - title: "Content Writing"
+    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  
+  - title: "Dancing"
+    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  
+  - title: "Nutrition and health Research"
+    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 ---
-## About me
 
 Hello there! It’s wonderful to have you here at my kitchen table, the hub of all things nourishing and delicious. I’m Kalpna, your guide on this culinary and nutritional journey.I'm a mom on a mission, armed with a nutrition degree and a heart full of passion. Dive into my kitchen, where simple meets nutritious, transforming everyday meals into stepping stones for a healthier you. Here, I unravel the secrets of easy, balanced eating and share practical tips for weaving wellness into your busy life. Whether it's quick recipes, savvy meal prep, or little lifestyle tweaks, you'll find inspiration to nourish your body and soul. Let's embark on this flavorful journey together – where good health is just a bite away!"
 
