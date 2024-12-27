@@ -1,7 +1,7 @@
 ---
-title: "I’m Kalpna, A mom with a mission to lead a healthy and productive life"
-meta_title: "About"
-image: "/images/author.png"
+title: About me
+meta_title: About me
+image: /images/author.png
 draft: false
 ---
 
