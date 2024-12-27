@@ -1,6 +1,6 @@
 ---
 title: Kalpna
-image: /images/authors/author.jpeg
+image: /images/author.jpeg
 description: Hi, this is Kalpna
 social:
   facebook: https://www.facebook.com/
