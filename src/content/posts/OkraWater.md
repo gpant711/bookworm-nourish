@@ -17,7 +17,7 @@ Okra water is prepared by soaking sliced okra pods in water overnight. The resul
 
 Key Health Benefits of Okra Water
 1. Blood Sugar Management
-Research published in the Journal of Pharmacy and Bioallied Sciences suggests that okra’s seed extracts may help lower blood sugar levels. A NIH study found that okra’s polysaccharides can inhibit certain enzymes that affect glucose absorption, potentially benefiting those with diabetes.
+Research published in the Journal of Pharmacy and Bioallied Sciences suggests that okra’s seed extracts may help lower blood sugar levels. A [NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC7865958/) study found that okra’s polysaccharides can inhibit certain enzymes that affect glucose absorption, potentially benefiting those with diabetes.
 
 2. Digestive Health Support
 Okra water contains both soluble and insoluble fiber:
