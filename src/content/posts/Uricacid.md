@@ -5,7 +5,7 @@ date: 2024-11-12T05:00:00Z
 image: "/images/posts/uricacid.jpg"
 categories: ["health"]
 authors: ["Kalpna Bora"]
-tags: ["Health", "Nutrition","healthy eating","fat","healthy lifestyle","uric acid".]
+tags: ["Health", "Nutrition","healthy eating","fat","healthy lifestyle","uric acid"]
 draft: false
 ---
 
