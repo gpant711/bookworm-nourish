@@ -1,8 +1,8 @@
 ---
-title: How to Start a Mindfulness Practice- A Comprehensive Guide for Beginners
+title: How to Start a Mindfulness Practice - A Comprehensive Guide for Beginners
 description: "meta description"
 date: 2024-12-12T05:00:00Z
-image: "/images/posts/oil_and_fats.webp"
+image: "/images/posts/mindfulness.jpg"
 categories: ["health"]
 authors: ["Kalpna Bora"]
 tags: ["Health", "Nutrition","healthy eating","fat","healthy lifestyle"]
@@ -19,7 +19,7 @@ Whether you’re seeking calm, clarity, or just a way to slow down, this guide w
 toward starting your mindfulness journey.
 
 
-
+image: "/images/posts/mindfulness2.jpg"
 ## What is Mindfulness?
 
 Mindfulness is the practice of being present—fully engaged in the here and now without judgment. 
