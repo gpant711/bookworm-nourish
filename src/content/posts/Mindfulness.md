@@ -1,5 +1,5 @@
 ---
-title: How to Start a Mindfulness Practice: A Comprehensive Guide for Beginners
+title: How to Start a Mindfulness Practice- A Comprehensive Guide for Beginners
 description: "meta description"
 date: 2024-12-12T05:00:00Z
 image: "/images/posts/oil_and_fats.webp"
