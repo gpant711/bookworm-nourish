@@ -19,7 +19,7 @@ Whether you’re seeking calm, clarity, or just a way to slow down, this guide w
 toward starting your mindfulness journey.
 
 
-image: "/images/posts/mindfulness2.jpg"
+
 ## What is Mindfulness?
 
 Mindfulness is the practice of being present—fully engaged in the here and now without judgment. 
