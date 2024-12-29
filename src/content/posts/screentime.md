@@ -2,7 +2,7 @@
 title: How to Deal with Screen Time Addiction in Kids - Setting Healthy Digital Boundaries
 description: "meta description"
 date: 2024-10-15T05:00:00Z
-image: "/images/posts/screentime.jpg"
+image: "/images/posts/screentime.webp"
 categories: ["health"]
 authors: ["Kalpna Bora"]
 tags: ["Health", "Nutrition","healthy eating","fat","healthy lifestyle","healthy sleep","Child Nutrition","child health","mindfulness","holistic life"]
