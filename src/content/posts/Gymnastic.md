@@ -1,5 +1,5 @@
 ---
-title: Gymnastics as a Sport for Little Girls: Is It Good for Posture, Flexibility, and Growth?
+title: Gymnastics as a Sport for Little Girls - Is It Good for Posture, Flexibility, and Growth?
 description: "Beyond the physical benefits, gymnastics can have a positive impact on a child's mental well-being.
 The sport teaches discipline, perseverance, and focus—traits that will serve your child well in many areas of life."
 date: 2024-09-23T05:00:00Z
