@@ -1,5 +1,5 @@
 ---
-title: How to Stay Active in a Sedentary Job: Easy Tips for Desk Workers
+title: How to Stay Active in a Sedentary Job - Easy Tips for Desk Workers
 description: "Discover easy ways to be active during long sitting hours in a sedentary job."
 date: 2024-10-04T05:00:00Z
 image: "/images/posts/sedentaryjob.webp"
